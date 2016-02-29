@@ -248,23 +248,23 @@ header {
 }
 
 #page_1 .text {
-    background: url(../images/page_1.gif) 0 0 no-repeat;
+    background: url(../images/page1.gif) 0 0 no-repeat;
 }
 
 #page_2 .text {
-    background: url(../images/page_2.gif) 0 0 no-repeat;
+    background: url(../images/page2.gif) 0 0 no-repeat;
 }
 
 #page_3 .text {
-    background: url(../images/page_3.gif) 0 0 no-repeat;
+    background: url(../images/page3.gif) 0 0 no-repeat;
 }
 
 #page_4 .text {
-    background: url(../images/page_4.gif) 0 0 no-repeat;
+    background: url(../images/page4.gif) 0 0 no-repeat;
 }
 
 #page_5 .text {
-    background: url(../images/page_5.gif) 0 0 no-repeat;
+    background: url(../images/page5.gif) 0 0 no-repeat;
 }
 
 #page_1.active .text, #page_1:hover .text {
