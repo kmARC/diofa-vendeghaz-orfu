@@ -117,6 +117,7 @@ body, html {
 
 .body1 {
     background: url(../images/bg_top.jpg) top repeat-x;
+    background-color: #000014;
 }
 
 .body2 {
