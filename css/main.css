@@ -76,6 +76,7 @@ textarea {
 /* Global properties */
 body {
     background: url(../images/bg.jpg) repeat;
+    background-color: #000014;
     border: 0;
     font: 14px Arial, Helvetica, sans-serif;
     color: #363636;
